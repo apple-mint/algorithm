@@ -14,3 +14,4 @@
 |07.08|[1823. Find the Winner of the Circular Game](https://github.com/apple-mint/algorithm/blob/main/LeetCode/Medium/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game.py)<br>[17836. 공주님을 구해라!](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/17836.%20%EA%B3%B5%EC%A3%BC%EB%8B%98%EC%9D%84%20%EA%B5%AC%ED%95%B4%EB%9D%BC!.py)|
 |07.09|[1701. Average Waiting Time](https://github.com/apple-mint/algorithm/blob/main/LeetCode/Medium/1701.%20Average%20Waiting%20Time.py)|
 |07.10|[1598. Crawler Log Folder](https://github.com/apple-mint/algorithm/blob/main/LeetCode/Easy/1598.%20Crawler%20Log%20Folder.py)|
+|07.14|[726. Number of Atoms](https://github.com/apple-mint/algorithm/blob/main/LeetCode/Hard/726.%20Number%20of%20Atoms.py)|
