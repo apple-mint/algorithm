@@ -15,3 +15,4 @@
 |07.09|[1701. Average Waiting Time](https://github.com/apple-mint/algorithm/blob/main/LeetCode/Medium/1701.%20Average%20Waiting%20Time.py)|
 |07.10|[1598. Crawler Log Folder](https://github.com/apple-mint/algorithm/blob/main/LeetCode/Easy/1598.%20Crawler%20Log%20Folder.py)|
 |07.14|[726. Number of Atoms](https://github.com/apple-mint/algorithm/blob/main/LeetCode/Hard/726.%20Number%20of%20Atoms.py)|
+|07.15|[2196. Create Binary Tree From Descriptions](https://github.com/apple-mint/algorithm/blob/main/LeetCode/Medium/2196.%20Create%20Binary%20Tree%20From%20Descriptions.py)|
