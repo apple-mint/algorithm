@@ -28,3 +28,4 @@
 |07.25|[17471. 게리맨더링](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/17471.%20%EA%B2%8C%EB%A6%AC%EB%A7%A8%EB%8D%94%EB%A7%81.py)<br>[912. Sort an Array](https://github.com/apple-mint/algorithm/blob/main/LeetCode/Medium/912.%20Sort%20an%20Array.py)|
 |07.26|[2606. 바이러스](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2606.%20%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.py)|
 |07.27|[8979. 올림픽](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/8979.%20%EC%98%AC%EB%A6%BC%ED%94%BD.py)|
+|07.28|[2178. 미로 탐색](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2178.%20%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89.py)|
