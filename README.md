@@ -8,6 +8,7 @@
 |08.02|[폰켓몬](https://github.com/apple-mint/algorithm/blob/main/Programmers/Level%201/%ED%8F%B0%EC%BC%93%EB%AA%AC.py)<br>[2578. 빙고](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2578.%20%EB%B9%99%EA%B3%A0.py)|
 |08.03|[1018. 체스판 다시 칠하기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1018.%20%EC%B2%B4%EC%8A%A4%ED%8C%90%20%EB%8B%A4%EC%8B%9C%20%EC%B9%A0%ED%95%98%EA%B8%B0.py)<br>[완주하지 못한 선수](https://github.com/apple-mint/algorithm/blob/main/Programmers/Level%201/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.py)<br>[1460. Make Two Arrays Equal by Reversing Subarrays](https://github.com/apple-mint/algorithm/blob/main/LeetCode/Easy/1460.%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Subarrays.py)|
 |08.04|[5430. AC](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/5430.%20AC.py)<br>[K번째수](https://github.com/apple-mint/algorithm/blob/main/Programmers/Level%201/K%EB%B2%88%EC%A7%B8%EC%88%98.py)|
+|08.05|[16953. A → B](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/16953.%20A%20%E2%86%92%20B.py)<br>[모의고사](https://github.com/apple-mint/algorithm/blob/main/Programmers/Level%201/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.py)<br>[1107. 리모컨](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/1107.%20%EB%A6%AC%EB%AA%A8%EC%BB%A8.py)|
 
 <details>
   <summary><strong>2024.07</strong></summary>
