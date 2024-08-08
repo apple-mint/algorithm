@@ -11,6 +11,7 @@
 |08.05|[16953. A → B](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/16953.%20A%20%E2%86%92%20B.py)<br>[모의고사](https://github.com/apple-mint/algorithm/blob/main/Programmers/Level%201/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.py)<br>[1107. 리모컨](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/1107.%20%EB%A6%AC%EB%AA%A8%EC%BB%A8.py)|
 |08.06|[전화번호 목록](https://github.com/apple-mint/algorithm/blob/main/Programmers/Level%202/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.py)<br>[1063. 킹](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1063.%20%ED%82%B9.py)|
 |08.07|[17219. 비밀번호 찾기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/17219.%20%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%20%EC%B0%BE%EA%B8%B0.py)<br>[가장 큰 수](https://github.com/apple-mint/algorithm/blob/main/Programmers/Level%202/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.py)|
+|08.08|[20920. 영단어 암기는 괴로워](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/20920.%20%EC%98%81%EB%8B%A8%EC%96%B4%20%EC%95%94%EA%B8%B0%EB%8A%94%20%EA%B4%B4%EB%A1%9C%EC%9B%8C.py)|
 
 <details>
   <summary><strong>2024.07</strong></summary>
