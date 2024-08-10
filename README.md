@@ -13,6 +13,7 @@
 |08.07|[17219. 비밀번호 찾기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/17219.%20%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%20%EC%B0%BE%EA%B8%B0.py)<br>[가장 큰 수](https://github.com/apple-mint/algorithm/blob/main/Programmers/Level%202/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.py)|
 |08.08|[20920. 영단어 암기는 괴로워](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/20920.%20%EC%98%81%EB%8B%A8%EC%96%B4%20%EC%95%94%EA%B8%B0%EB%8A%94%20%EA%B4%B4%EB%A1%9C%EC%9B%8C.py)|
 |08.09|[2667. 단지번호붙이기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2667.%20%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.py)|
+|08.10|[26069. 붙임성 좋은 총총이](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/26069.%20%EB%B6%99%EC%9E%84%EC%84%B1%20%EC%A2%8B%EC%9D%80%20%EC%B4%9D%EC%B4%9D%EC%9D%B4.py)|
 
 <details>
   <summary><strong>2024.07</strong></summary>
