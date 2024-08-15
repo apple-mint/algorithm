@@ -18,6 +18,7 @@
 |08.12|[3190. 뱀](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/3190.%20%EB%B1%80.py)<br>[1331. 나이트 투어](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1331.%20%EB%82%98%EC%9D%B4%ED%8A%B8%20%ED%88%AC%EC%96%B4.py)<br>[의상](https://github.com/apple-mint/algorithm/blob/main/Programmers/Level%202/%EC%9D%98%EC%83%81.py)<br>[16928. 뱀과 사다리 게임](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/16928.%20%EB%B1%80%EA%B3%BC%20%EC%82%AC%EB%8B%A4%EB%A6%AC%20%EA%B2%8C%EC%9E%84.py)<br>[18111. 마인크래프트](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/18111.%20%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8.py)|
 |08.13|[274. H-Index](https://github.com/apple-mint/algorithm/blob/main/LeetCode/Medium/274.%20H-Index.py)<br>[25192. 인사성 밝은 곰곰이](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/25192.%20%EC%9D%B8%EC%82%AC%EC%84%B1%20%EB%B0%9D%EC%9D%80%20%EA%B3%B0%EA%B3%B0%EC%9D%B4.py)|
 |08.14|[1652. 누울 자리를 찾아라](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1652.%20%EB%88%84%EC%9A%B8%20%EC%9E%90%EB%A6%AC%EB%A5%BC%20%EC%B0%BE%EC%95%84%EB%9D%BC.py)|
+|08.15|[30804. 과일 탕후루](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/30804.%20%EA%B3%BC%EC%9D%BC%20%ED%83%95%ED%9B%84%EB%A3%A8.py)|
 
 <details>
   <summary><strong>2024.07</strong></summary>
