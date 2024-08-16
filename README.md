@@ -19,6 +19,7 @@
 |08.13|[274. H-Index](https://github.com/apple-mint/algorithm/blob/main/LeetCode/Medium/274.%20H-Index.py)<br>[25192. 인사성 밝은 곰곰이](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/25192.%20%EC%9D%B8%EC%82%AC%EC%84%B1%20%EB%B0%9D%EC%9D%80%20%EA%B3%B0%EA%B3%B0%EC%9D%B4.py)|
 |08.14|[1652. 누울 자리를 찾아라](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1652.%20%EB%88%84%EC%9A%B8%20%EC%9E%90%EB%A6%AC%EB%A5%BC%20%EC%B0%BE%EC%95%84%EB%9D%BC.py)|
 |08.15|[30804. 과일 탕후루](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/30804.%20%EA%B3%BC%EC%9D%BC%20%ED%83%95%ED%9B%84%EB%A3%A8.py)|
+|08.16|[기능개발](https://github.com/apple-mint/algorithm/blob/main/Programmers/Level%202/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py)<br>[9461. 파도반 수열](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/9461.%20%ED%8C%8C%EB%8F%84%EB%B0%98%20%EC%88%98%EC%97%B4.py)|
 
 <details>
   <summary><strong>2024.07</strong></summary>
