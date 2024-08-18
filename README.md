@@ -21,6 +21,7 @@
 |08.15|[30804. 과일 탕후루](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/30804.%20%EA%B3%BC%EC%9D%BC%20%ED%83%95%ED%9B%84%EB%A3%A8.py)|
 |08.16|[기능개발](https://github.com/apple-mint/algorithm/blob/main/Programmers/Level%202/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py)<br>[9461. 파도반 수열](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/9461.%20%ED%8C%8C%EB%8F%84%EB%B0%98%20%EC%88%98%EC%97%B4.py)|
 |08.17|[17478. 재귀함수가 뭔가요?](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/17478.%20%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98%EA%B0%80%20%EB%AD%94%EA%B0%80%EC%9A%94.py)|
+|08.18|[1003. 피보나치 함수](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1003.%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%ED%95%A8%EC%88%98.py)|
 
 <details>
   <summary><strong>2024.07</strong></summary>
