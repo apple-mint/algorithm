@@ -24,6 +24,7 @@
 |08.18|[1003. 피보나치 함수](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1003.%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%ED%95%A8%EC%88%98.py)|
 |08.19|[2608. 로마 숫자](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/2608.%20%EB%A1%9C%EB%A7%88%20%EC%88%AB%EC%9E%90.py)<br>[14405. 피카츄](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/14405.%20%ED%94%BC%EC%B9%B4%EC%B8%84.py)|
 |08.20|[12904. A와 B](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/12904.%20A%EC%99%80%20B.py)<br>[구명보트](https://github.com/apple-mint/algorithm/blob/main/Programmers/Level%202/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.py)<br>[14940. 쉬운 최단거리](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/14940.%20%EC%89%AC%EC%9A%B4%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.py)<br>[9012. 괄호](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/9012.%20%EA%B4%84%ED%98%B8.py)|
+|08.21|[21736. 헌내기는 친구가 필요해](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/21736.%20%ED%97%8C%EB%82%B4%EA%B8%B0%EB%8A%94%20%EC%B9%9C%EA%B5%AC%EA%B0%80%20%ED%95%84%EC%9A%94%ED%95%B4.py)<br>[카펫](https://github.com/apple-mint/algorithm/blob/main/Programmers/Level%202/%EC%B9%B4%ED%8E%AB.py)<br>[11047. 동전 0](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/11047.%20%EB%8F%99%EC%A0%84%200.py)|
 
 <details>
   <summary><strong>2024.07</strong></summary>
