@@ -30,6 +30,7 @@
 |08.24|[2579. 계단 오르기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2579.%20%EA%B3%84%EB%8B%A8%20%EC%98%A4%EB%A5%B4%EA%B8%B0.py)<br>[1463. 1로 만들기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1463.%201%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|
 |08.25|[11726. 2×n 타일링](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/11726.%202%C3%97n%20%ED%83%80%EC%9D%BC%EB%A7%81.py)<br>[1260. DFS와 BFS](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1260.%20DFS%EC%99%80%20BFS.py)|
 |08.26|[1676. 팩토리얼 0의 개수](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1676.%20%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%200%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|
+|08.27|[15649. N과 M (1)](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/15649.%20N%EA%B3%BC%20M%20(1).py)|
 
 <details>
   <summary><strong>2024.07</strong></summary>
