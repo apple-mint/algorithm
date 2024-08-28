@@ -31,6 +31,7 @@
 |08.25|[11726. 2×n 타일링](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/11726.%202%C3%97n%20%ED%83%80%EC%9D%BC%EB%A7%81.py)<br>[1260. DFS와 BFS](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1260.%20DFS%EC%99%80%20BFS.py)|
 |08.26|[1676. 팩토리얼 0의 개수](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1676.%20%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%200%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|
 |08.27|[15649. N과 M (1)](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/15649.%20N%EA%B3%BC%20M%20(1).py)|
+|08.28|[13023. ABCDE](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/13023.%20ABCDE.py)<br>[14502. 연구소](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/14502.%20%EC%97%B0%EA%B5%AC%EC%86%8C.py)|
 
 <details>
   <summary><strong>2024.07</strong></summary>
