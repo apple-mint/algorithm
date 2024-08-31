@@ -34,6 +34,7 @@
 |08.28|[13023. ABCDE](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/13023.%20ABCDE.py)<br>[14502. 연구소](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/14502.%20%EC%97%B0%EA%B5%AC%EC%86%8C.py)|
 |08.29|[9095. 1, 2, 3 더하기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/9095.%201%2C%202%2C%203%20%EB%8D%94%ED%95%98%EA%B8%B0.py)|
 |08.30|[18110. solved.ac](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/18110.%20solved.ac.py)|
+|08.31|[12933. 오리](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/12933.%20%EC%98%A4%EB%A6%AC.py)|
 
 <details>
   <summary><strong>2024.07</strong></summary>
