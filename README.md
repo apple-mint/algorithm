@@ -6,6 +6,7 @@
 |-|-|
 |09.01|[1920. 수 찾기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1920.%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.py)|
 |09.02|[1343. 폴리오미노](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1343.%20%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%AF%B8%EB%85%B8.py)|
+|09.03|[1697. 숨바꼭질](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1697.%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.py)|
 
 <details>
   <summary><strong>2024.08</strong></summary>
