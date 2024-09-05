@@ -8,6 +8,7 @@
 |09.02|[1343. 폴리오미노](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1343.%20%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%AF%B8%EB%85%B8.py)|
 |09.03|[1697. 숨바꼭질](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1697.%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.py)|
 |09.04|[10828. 스택](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/10828.%20%EC%8A%A4%ED%83%9D.py)|
+|09.05|[10845. 큐](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/10845.%20%ED%81%90.py)|
 
 <details>
   <summary><strong>2024.08</strong></summary>
