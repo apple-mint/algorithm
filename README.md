@@ -9,6 +9,7 @@
 |09.03|[1697. 숨바꼭질](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1697.%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.py)|
 |09.04|[10828. 스택](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/10828.%20%EC%8A%A4%ED%83%9D.py)|
 |09.05|[10845. 큐](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/10845.%20%ED%81%90.py)|
+|09.06|[10709. 기상캐스터](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/10709.%20%EA%B8%B0%EC%83%81%EC%BA%90%EC%8A%A4%ED%84%B0.py)|
 
 <details>
   <summary><strong>2024.08</strong></summary>
