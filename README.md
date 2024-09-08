@@ -11,6 +11,7 @@
 |09.05|[10845. 큐](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/10845.%20%ED%81%90.py)|
 |09.06|[10709. 기상캐스터](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/10709.%20%EA%B8%B0%EC%83%81%EC%BA%90%EC%8A%A4%ED%84%B0.py)|
 |09.07|[22352. 항체 인식](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/22352.%20%ED%95%AD%EC%B2%B4%20%EC%9D%B8%EC%8B%9D.py)<br>[1389. 케빈 베이컨의 6단계 법칙](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1389.%20%EC%BC%80%EB%B9%88%20%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98%206%EB%8B%A8%EA%B3%84%20%EB%B2%95%EC%B9%99.py)|
+|09.08|[14719. 빗물](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/14719.%20%EB%B9%97%EB%AC%BC.py)<br>[1969. DNA](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1969.%20DNA.py)|
 
 <details>
   <summary><strong>2024.08</strong></summary>
