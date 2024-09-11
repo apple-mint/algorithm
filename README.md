@@ -14,6 +14,7 @@
 |09.08|[14719. 빗물](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/14719.%20%EB%B9%97%EB%AC%BC.py)<br>[1969. DNA](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1969.%20DNA.py)|
 |09.09|[11723. 집합](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/11723.%20%EC%A7%91%ED%95%A9.py)|
 |09.10|[1976. 여행 가자](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/1976.%20%EC%97%AC%ED%96%89%20%EA%B0%80%EC%9E%90.py)|
+|09.11|[2877. 4와 7](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/2877.%204%EC%99%80%207.py)|
 
 <details>
   <summary><strong>2024.08</strong></summary>
