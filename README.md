@@ -15,6 +15,7 @@
 |09.09|[11723. 집합](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/11723.%20%EC%A7%91%ED%95%A9.py)|
 |09.10|[1976. 여행 가자](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/1976.%20%EC%97%AC%ED%96%89%20%EA%B0%80%EC%9E%90.py)|
 |09.11|[2877. 4와 7](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/2877.%204%EC%99%80%207.py)|
+|09.12|[1439. 뒤집기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1439.%20%EB%92%A4%EC%A7%91%EA%B8%B0.py)|
 
 <details>
   <summary><strong>2024.08</strong></summary>
