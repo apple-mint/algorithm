@@ -17,6 +17,7 @@
 |09.11|[2877. 4와 7](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/2877.%204%EC%99%80%207.py)|
 |09.12|[1439. 뒤집기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1439.%20%EB%92%A4%EC%A7%91%EA%B8%B0.py)|
 |09.13|[26070. 곰곰이와 학식](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/26070.%20%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%99%80%20%ED%95%99%EC%8B%9D.py)|
+|09.14|[2941. 크로아티아 알파벳](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2941.%20%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84%20%EC%95%8C%ED%8C%8C%EB%B2%B3.py)|
 
 <details>
   <summary><strong>2024.08</strong></summary>
