@@ -20,6 +20,7 @@
 |09.14|[2941. 크로아티아 알파벳](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2941.%20%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84%20%EC%95%8C%ED%8C%8C%EB%B2%B3.py)|
 |09.15|[15650. N과 M (2)](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/15650.%20N%EA%B3%BC%20M%20(2).py)|
 |09.16|[1120. 문자열](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1120.%20%EB%AC%B8%EC%9E%90%EC%97%B4.py)|
+|09.17|[3613. Java vs C++](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/3613.%20Java%20vs%20C%2B%2B.py)<br>[17144. 미세먼지 안녕!](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/17144.%20%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%20%EC%95%88%EB%85%95!.py)|
 
 <details>
   <summary><strong>2024.08</strong></summary>
