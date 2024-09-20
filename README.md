@@ -23,6 +23,7 @@
 |09.17|[3613. Java vs C++](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/3613.%20Java%20vs%20C%2B%2B.py)<br>[17144. 미세먼지 안녕!](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/17144.%20%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%20%EC%95%88%EB%85%95!.py)|
 |09.18|[9935. 문자열 폭발](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/9935.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%8F%AD%EB%B0%9C.py)|
 |09.19|[15565. 귀여운 라이언](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/15565.%20%EA%B7%80%EC%97%AC%EC%9A%B4%20%EB%9D%BC%EC%9D%B4%EC%96%B8.py)|
+|09.20|[7576. 토마토](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/7576.%20%ED%86%A0%EB%A7%88%ED%86%A0.py)<br>[4347. Tic Tac Toe](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/4347.%20Tic%20Tac%20Toe.py)<br>[18404. 현명한 나이트](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/18404.%20%ED%98%84%EB%AA%85%ED%95%9C%20%EB%82%98%EC%9D%B4%ED%8A%B8.py)|
 
 <details>
   <summary><strong>2024.08</strong></summary>
