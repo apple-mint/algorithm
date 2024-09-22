@@ -25,6 +25,7 @@
 |09.19|[15565. 귀여운 라이언](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/15565.%20%EA%B7%80%EC%97%AC%EC%9A%B4%20%EB%9D%BC%EC%9D%B4%EC%96%B8.py)|
 |09.20|[7576. 토마토](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/7576.%20%ED%86%A0%EB%A7%88%ED%86%A0.py)<br>[4347. Tic Tac Toe](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/4347.%20Tic%20Tac%20Toe.py)<br>[18404. 현명한 나이트](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/18404.%20%ED%98%84%EB%AA%85%ED%95%9C%20%EB%82%98%EC%9D%B4%ED%8A%B8.py)|
 |09.21|[1929. 소수 구하기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1929.%20%EC%86%8C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)<br>[2960. 에라토스테네스의 체](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2960.%20%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%20%EC%B2%B4.py)<br>[2630. 색종이 만들기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2630.%20%EC%83%89%EC%A2%85%EC%9D%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|
+|09.22|[1931. 회의실 배정](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1931.%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py)<br>[11659. 구간 합 구하기 4](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/11659.%20%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%204.py)|
 
 <details>
   <summary><strong>2024.08</strong></summary>
