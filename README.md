@@ -27,6 +27,7 @@
 |09.21|[1929. 소수 구하기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1929.%20%EC%86%8C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)<br>[2960. 에라토스테네스의 체](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2960.%20%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%20%EC%B2%B4.py)<br>[2630. 색종이 만들기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2630.%20%EC%83%89%EC%A2%85%EC%9D%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|
 |09.22|[1931. 회의실 배정](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1931.%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py)<br>[11659. 구간 합 구하기 4](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/11659.%20%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%204.py)|
 |09.23|[9996. 한국이 그리울 땐 서버에 접속하지](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/9996.%20%ED%95%9C%EA%B5%AD%EC%9D%B4%20%EA%B7%B8%EB%A6%AC%EC%9A%B8%20%EB%95%90%20%EC%84%9C%EB%B2%84%EC%97%90%20%EC%A0%91%EC%86%8D%ED%95%98%EC%A7%80.py)<br>[30458. 팰린드롬 애너그램](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/30458.%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%20%EC%95%A0%EB%84%88%EA%B7%B8%EB%9E%A8.py)|
+|09.24|[1074. Z](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/1074.%20Z.py)<br>[1012. 유기농 배추](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1012.%20%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94.py)|
 
 <details>
   <summary><strong>2024.08</strong></summary>
