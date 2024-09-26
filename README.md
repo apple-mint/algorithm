@@ -29,6 +29,7 @@
 |09.23|[9996. 한국이 그리울 땐 서버에 접속하지](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/9996.%20%ED%95%9C%EA%B5%AD%EC%9D%B4%20%EA%B7%B8%EB%A6%AC%EC%9A%B8%20%EB%95%90%20%EC%84%9C%EB%B2%84%EC%97%90%20%EC%A0%91%EC%86%8D%ED%95%98%EC%A7%80.py)<br>[30458. 팰린드롬 애너그램](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/30458.%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%20%EC%95%A0%EB%84%88%EA%B7%B8%EB%9E%A8.py)|
 |09.24|[1074. Z](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/1074.%20Z.py)<br>[1012. 유기농 배추](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1012.%20%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94.py)|
 |09.25|[2660. 회장뽑기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/2660.%20%ED%9A%8C%EC%9E%A5%EB%BD%91%EA%B8%B0.py)|
+|09.26|[17626. Four Squares](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/17626.%20Four%20Squares.py)|
 
 <details>
   <summary><strong>2024.08</strong></summary>
