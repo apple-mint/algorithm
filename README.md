@@ -33,6 +33,7 @@
 |09.27|[4375. 1](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/4375.%201.py)<br>[7568. 덩치](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/7568.%20%EB%8D%A9%EC%B9%98.py)|
 |09.28|[2304. 창고 다각형](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2304.%20%EC%B0%BD%EA%B3%A0%20%EB%8B%A4%EA%B0%81%ED%98%95.py)|
 |09.29|[2503. 숫자 야구](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2503.%20%EC%88%AB%EC%9E%90%20%EC%95%BC%EA%B5%AC.py)|
+|09.30|[1966. 프린터 큐](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1966.%20%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90.py)|
 
 <details>
   <summary><strong>2024.08</strong></summary>
