@@ -4,36 +4,49 @@
 ### 📅 기록
 |날짜|문제|
 |-|-|
-|09.01|[1920. 수 찾기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1920.%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.py)|
-|09.02|[1343. 폴리오미노](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1343.%20%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%AF%B8%EB%85%B8.py)|
-|09.03|[1697. 숨바꼭질](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1697.%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.py)|
-|09.04|[10828. 스택](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/10828.%20%EC%8A%A4%ED%83%9D.py)|
-|09.05|[10845. 큐](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/10845.%20%ED%81%90.py)|
-|09.06|[10709. 기상캐스터](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/10709.%20%EA%B8%B0%EC%83%81%EC%BA%90%EC%8A%A4%ED%84%B0.py)|
-|09.07|[22352. 항체 인식](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/22352.%20%ED%95%AD%EC%B2%B4%20%EC%9D%B8%EC%8B%9D.py)<br>[1389. 케빈 베이컨의 6단계 법칙](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1389.%20%EC%BC%80%EB%B9%88%20%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98%206%EB%8B%A8%EA%B3%84%20%EB%B2%95%EC%B9%99.py)|
-|09.08|[14719. 빗물](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/14719.%20%EB%B9%97%EB%AC%BC.py)<br>[1969. DNA](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1969.%20DNA.py)|
-|09.09|[11723. 집합](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/11723.%20%EC%A7%91%ED%95%A9.py)|
-|09.10|[1976. 여행 가자](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/1976.%20%EC%97%AC%ED%96%89%20%EA%B0%80%EC%9E%90.py)|
-|09.11|[2877. 4와 7](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/2877.%204%EC%99%80%207.py)|
-|09.12|[1439. 뒤집기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1439.%20%EB%92%A4%EC%A7%91%EA%B8%B0.py)|
-|09.13|[26070. 곰곰이와 학식](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/26070.%20%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%99%80%20%ED%95%99%EC%8B%9D.py)|
-|09.14|[2941. 크로아티아 알파벳](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2941.%20%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84%20%EC%95%8C%ED%8C%8C%EB%B2%B3.py)|
-|09.15|[15650. N과 M (2)](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/15650.%20N%EA%B3%BC%20M%20(2).py)|
-|09.16|[1120. 문자열](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1120.%20%EB%AC%B8%EC%9E%90%EC%97%B4.py)|
-|09.17|[3613. Java vs C++](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/3613.%20Java%20vs%20C%2B%2B.py)<br>[17144. 미세먼지 안녕!](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/17144.%20%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%20%EC%95%88%EB%85%95!.py)|
-|09.18|[9935. 문자열 폭발](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/9935.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%8F%AD%EB%B0%9C.py)|
-|09.19|[15565. 귀여운 라이언](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/15565.%20%EA%B7%80%EC%97%AC%EC%9A%B4%20%EB%9D%BC%EC%9D%B4%EC%96%B8.py)|
-|09.20|[7576. 토마토](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/7576.%20%ED%86%A0%EB%A7%88%ED%86%A0.py)<br>[4347. Tic Tac Toe](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/4347.%20Tic%20Tac%20Toe.py)<br>[18404. 현명한 나이트](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/18404.%20%ED%98%84%EB%AA%85%ED%95%9C%20%EB%82%98%EC%9D%B4%ED%8A%B8.py)|
-|09.21|[1929. 소수 구하기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1929.%20%EC%86%8C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)<br>[2960. 에라토스테네스의 체](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2960.%20%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%20%EC%B2%B4.py)<br>[2630. 색종이 만들기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2630.%20%EC%83%89%EC%A2%85%EC%9D%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|
-|09.22|[1931. 회의실 배정](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1931.%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py)<br>[11659. 구간 합 구하기 4](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/11659.%20%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%204.py)|
-|09.23|[9996. 한국이 그리울 땐 서버에 접속하지](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/9996.%20%ED%95%9C%EA%B5%AD%EC%9D%B4%20%EA%B7%B8%EB%A6%AC%EC%9A%B8%20%EB%95%90%20%EC%84%9C%EB%B2%84%EC%97%90%20%EC%A0%91%EC%86%8D%ED%95%98%EC%A7%80.py)<br>[30458. 팰린드롬 애너그램](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/30458.%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%20%EC%95%A0%EB%84%88%EA%B7%B8%EB%9E%A8.py)|
-|09.24|[1074. Z](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/1074.%20Z.py)<br>[1012. 유기농 배추](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1012.%20%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94.py)|
-|09.25|[2660. 회장뽑기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/2660.%20%ED%9A%8C%EC%9E%A5%EB%BD%91%EA%B8%B0.py)|
-|09.26|[17626. Four Squares](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/17626.%20Four%20Squares.py)|
-|09.27|[4375. 1](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/4375.%201.py)<br>[7568. 덩치](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/7568.%20%EB%8D%A9%EC%B9%98.py)|
-|09.28|[2304. 창고 다각형](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2304.%20%EC%B0%BD%EA%B3%A0%20%EB%8B%A4%EA%B0%81%ED%98%95.py)|
-|09.29|[2503. 숫자 야구](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2503.%20%EC%88%AB%EC%9E%90%20%EC%95%BC%EA%B5%AC.py)|
-|09.30|[1966. 프린터 큐](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1966.%20%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90.py)|
+|10.01|[4949. 균형잡힌 세상](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/4949.%20%EA%B7%A0%ED%98%95%EC%9E%A1%ED%9E%8C%20%EC%84%B8%EC%83%81.py)|
+
+<details>
+  <summary><strong>2024.09</strong></summary>
+  <div markdown='1'>
+
+  **✍🏻 31일 중 31일 동안 41문제 풀이**
+
+  |날짜|문제|
+  |-|-|
+  |09.01|[1920. 수 찾기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1920.%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.py)|
+  |09.02|[1343. 폴리오미노](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1343.%20%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%AF%B8%EB%85%B8.py)|
+  |09.03|[1697. 숨바꼭질](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1697.%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.py)|
+  |09.04|[10828. 스택](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/10828.%20%EC%8A%A4%ED%83%9D.py)|
+  |09.05|[10845. 큐](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/10845.%20%ED%81%90.py)|
+  |09.06|[10709. 기상캐스터](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/10709.%20%EA%B8%B0%EC%83%81%EC%BA%90%EC%8A%A4%ED%84%B0.py)|
+  |09.07|[22352. 항체 인식](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/22352.%20%ED%95%AD%EC%B2%B4%20%EC%9D%B8%EC%8B%9D.py)<br>[1389. 케빈 베이컨의 6단계 법칙](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1389.%20%EC%BC%80%EB%B9%88%20%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98%206%EB%8B%A8%EA%B3%84%20%EB%B2%95%EC%B9%99.py)|
+  |09.08|[14719. 빗물](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/14719.%20%EB%B9%97%EB%AC%BC.py)<br>[1969. DNA](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1969.%20DNA.py)|
+  |09.09|[11723. 집합](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/11723.%20%EC%A7%91%ED%95%A9.py)|
+  |09.10|[1976. 여행 가자](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/1976.%20%EC%97%AC%ED%96%89%20%EA%B0%80%EC%9E%90.py)|
+  |09.11|[2877. 4와 7](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/2877.%204%EC%99%80%207.py)|
+  |09.12|[1439. 뒤집기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1439.%20%EB%92%A4%EC%A7%91%EA%B8%B0.py)|
+  |09.13|[26070. 곰곰이와 학식](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/26070.%20%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%99%80%20%ED%95%99%EC%8B%9D.py)|
+  |09.14|[2941. 크로아티아 알파벳](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2941.%20%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84%20%EC%95%8C%ED%8C%8C%EB%B2%B3.py)|
+  |09.15|[15650. N과 M (2)](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/15650.%20N%EA%B3%BC%20M%20(2).py)|
+  |09.16|[1120. 문자열](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1120.%20%EB%AC%B8%EC%9E%90%EC%97%B4.py)|
+  |09.17|[3613. Java vs C++](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/3613.%20Java%20vs%20C%2B%2B.py)<br>[17144. 미세먼지 안녕!](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/17144.%20%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%20%EC%95%88%EB%85%95!.py)|
+  |09.18|[9935. 문자열 폭발](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/9935.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%8F%AD%EB%B0%9C.py)|
+  |09.19|[15565. 귀여운 라이언](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/15565.%20%EA%B7%80%EC%97%AC%EC%9A%B4%20%EB%9D%BC%EC%9D%B4%EC%96%B8.py)|
+  |09.20|[7576. 토마토](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/7576.%20%ED%86%A0%EB%A7%88%ED%86%A0.py)<br>[4347. Tic Tac Toe](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/4347.%20Tic%20Tac%20Toe.py)<br>[18404. 현명한 나이트](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/18404.%20%ED%98%84%EB%AA%85%ED%95%9C%20%EB%82%98%EC%9D%B4%ED%8A%B8.py)|
+  |09.21|[1929. 소수 구하기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1929.%20%EC%86%8C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)<br>[2960. 에라토스테네스의 체](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2960.%20%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%20%EC%B2%B4.py)<br>[2630. 색종이 만들기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2630.%20%EC%83%89%EC%A2%85%EC%9D%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|
+  |09.22|[1931. 회의실 배정](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1931.%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py)<br>[11659. 구간 합 구하기 4](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/11659.%20%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%204.py)|
+  |09.23|[9996. 한국이 그리울 땐 서버에 접속하지](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/9996.%20%ED%95%9C%EA%B5%AD%EC%9D%B4%20%EA%B7%B8%EB%A6%AC%EC%9A%B8%20%EB%95%90%20%EC%84%9C%EB%B2%84%EC%97%90%20%EC%A0%91%EC%86%8D%ED%95%98%EC%A7%80.py)<br>[30458. 팰린드롬 애너그램](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/30458.%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%20%EC%95%A0%EB%84%88%EA%B7%B8%EB%9E%A8.py)|
+  |09.24|[1074. Z](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/1074.%20Z.py)<br>[1012. 유기농 배추](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1012.%20%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94.py)|
+  |09.25|[2660. 회장뽑기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/2660.%20%ED%9A%8C%EC%9E%A5%EB%BD%91%EA%B8%B0.py)|
+  |09.26|[17626. Four Squares](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/17626.%20Four%20Squares.py)|
+  |09.27|[4375. 1](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/4375.%201.py)<br>[7568. 덩치](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/7568.%20%EB%8D%A9%EC%B9%98.py)|
+  |09.28|[2304. 창고 다각형](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2304.%20%EC%B0%BD%EA%B3%A0%20%EB%8B%A4%EA%B0%81%ED%98%95.py)|
+  |09.29|[2503. 숫자 야구](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2503.%20%EC%88%AB%EC%9E%90%20%EC%95%BC%EA%B5%AC.py)|
+  |09.30|[1966. 프린터 큐](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1966.%20%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90.py)|
+
+  </div>
+</details>
 
 <details>
   <summary><strong>2024.08</strong></summary>
