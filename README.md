@@ -6,6 +6,7 @@
 |-|-|
 |10.01|[4949. 균형잡힌 세상](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/4949.%20%EA%B7%A0%ED%98%95%EC%9E%A1%ED%9E%8C%20%EC%84%B8%EC%83%81.py)|
 |10.02|[32206. 아보와 킨텍스](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/32206.%20%EC%95%84%EB%B3%B4%EC%99%80%20%ED%82%A8%ED%85%8D%EC%8A%A4.py)|
+|10.03|[6064. 카잉 달력](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/6064.%20%EC%B9%B4%EC%9E%89%20%EB%8B%AC%EB%A0%A5.py)|
 
 <details>
   <summary><strong>2024.09</strong></summary>
