@@ -8,6 +8,7 @@
 |10.02|[32206. 아보와 킨텍스](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/32206.%20%EC%95%84%EB%B3%B4%EC%99%80%20%ED%82%A8%ED%85%8D%EC%8A%A4.py)|
 |10.03|[6064. 카잉 달력](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/6064.%20%EC%B9%B4%EC%9E%89%20%EB%8B%AC%EB%A0%A5.py)|
 |10.04|[1541. 잃어버린 괄호](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1541.%20%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8.py)|
+|10.05|[2468. 안전 영역](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2468.%20%EC%95%88%EC%A0%84%20%EC%98%81%EC%97%AD.py)|
 
 <details>
   <summary><strong>2024.09</strong></summary>
