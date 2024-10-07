@@ -10,6 +10,7 @@
 |10.04|[1541. 잃어버린 괄호](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1541.%20%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8.py)|
 |10.05|[2468. 안전 영역](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2468.%20%EC%95%88%EC%A0%84%20%EC%98%81%EC%97%AD.py)|
 |10.06|[11656. 접미사 배열](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/11656.%20%EC%A0%91%EB%AF%B8%EC%82%AC%20%EB%B0%B0%EC%97%B4.py)|
+|10.07|[1010. 다리 놓기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1010.%20%EB%8B%A4%EB%A6%AC%20%EB%86%93%EA%B8%B0.py)<br>[16967. 배열 복원하기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/16967.%20%EB%B0%B0%EC%97%B4%20%EB%B3%B5%EC%9B%90%ED%95%98%EA%B8%B0.py)|
 
 <details>
   <summary><strong>2024.09</strong></summary>
