@@ -13,6 +13,7 @@
 |10.07|[1010. 다리 놓기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1010.%20%EB%8B%A4%EB%A6%AC%20%EB%86%93%EA%B8%B0.py)<br>[16967. 배열 복원하기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/16967.%20%EB%B0%B0%EC%97%B4%20%EB%B3%B5%EC%9B%90%ED%95%98%EA%B8%B0.py)|
 |10.08|[16198. 에너지 모으기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/16198.%20%EC%97%90%EB%84%88%EC%A7%80%20%EB%AA%A8%EC%9C%BC%EA%B8%B0.py)|
 |10.09|[1138. 한 줄로 서기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1138.%20%ED%95%9C%20%EC%A4%84%EB%A1%9C%20%EC%84%9C%EA%B8%B0.py)|
+|10.10|[24481. 알고리즘 수업 - 깊이 우선 탐색 3](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/24481.%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EA%B9%8A%EC%9D%B4%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%203.py)|
 
 <details>
   <summary><strong>2024.09</strong></summary>
