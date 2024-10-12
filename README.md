@@ -15,6 +15,7 @@
 |10.09|[1138. 한 줄로 서기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1138.%20%ED%95%9C%20%EC%A4%84%EB%A1%9C%20%EC%84%9C%EA%B8%B0.py)|
 |10.10|[24481. 알고리즘 수업 - 깊이 우선 탐색 3](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/24481.%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EA%B9%8A%EC%9D%B4%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%203.py)|
 |10.11|[2210. 숫자판 점프](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2210.%20%EC%88%AB%EC%9E%90%ED%8C%90%20%EC%A0%90%ED%94%84.py)|
+|10.12|[16114. 화살표 연산자](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/16114.%20%ED%99%94%EC%82%B4%ED%91%9C%20%EC%97%B0%EC%82%B0%EC%9E%90.py)|
 
 <details>
   <summary><strong>2024.09</strong></summary>
