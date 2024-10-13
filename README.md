@@ -16,6 +16,7 @@
 |10.10|[24481. 알고리즘 수업 - 깊이 우선 탐색 3](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/24481.%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EA%B9%8A%EC%9D%B4%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%203.py)|
 |10.11|[2210. 숫자판 점프](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2210.%20%EC%88%AB%EC%9E%90%ED%8C%90%20%EC%A0%90%ED%94%84.py)|
 |10.12|[16114. 화살표 연산자](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/16114.%20%ED%99%94%EC%82%B4%ED%91%9C%20%EC%97%B0%EC%82%B0%EC%9E%90.py)|
+|10.13|[16235. 나무 재테크](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/16235.%20%EB%82%98%EB%AC%B4%20%EC%9E%AC%ED%85%8C%ED%81%AC.py)<br>[2589. 보물섬](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/2589.%20%EB%B3%B4%EB%AC%BC%EC%84%AC.py)<br>[2346. 풍선 터뜨리기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2346.%20%ED%92%8D%EC%84%A0%20%ED%84%B0%EB%9C%A8%EB%A6%AC%EA%B8%B0.py)|
 
 <details>
   <summary><strong>2024.09</strong></summary>
