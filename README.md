@@ -17,6 +17,7 @@
 |10.11|[2210. 숫자판 점프](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2210.%20%EC%88%AB%EC%9E%90%ED%8C%90%20%EC%A0%90%ED%94%84.py)|
 |10.12|[16114. 화살표 연산자](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/16114.%20%ED%99%94%EC%82%B4%ED%91%9C%20%EC%97%B0%EC%82%B0%EC%9E%90.py)|
 |10.13|[16235. 나무 재테크](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/16235.%20%EB%82%98%EB%AC%B4%20%EC%9E%AC%ED%85%8C%ED%81%AC.py)<br>[2589. 보물섬](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/2589.%20%EB%B3%B4%EB%AC%BC%EC%84%AC.py)<br>[2346. 풍선 터뜨리기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2346.%20%ED%92%8D%EC%84%A0%20%ED%84%B0%EB%9C%A8%EB%A6%AC%EA%B8%B0.py)|
+|10.14|[1926. 그림](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1926.%20%EA%B7%B8%EB%A6%BC.py)<br>[17413. 단어 뒤집기 2](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/17413.%20%EB%8B%A8%EC%96%B4%20%EB%92%A4%EC%A7%91%EA%B8%B0%202.py)|
 
 <details>
   <summary><strong>2024.09</strong></summary>
