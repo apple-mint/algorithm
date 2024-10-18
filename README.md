@@ -21,6 +21,7 @@
 |10.15|[2644. 촌수계산](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2644.%20%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0.py)|
 |10.16|[15686. 치킨 배달](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/15686.%20%EC%B9%98%ED%82%A8%20%EB%B0%B0%EB%8B%AC.py)|
 |10.17|[9205. 맥주 마시면서 걸어가기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/9205.%20%EB%A7%A5%EC%A3%BC%20%EB%A7%88%EC%8B%9C%EB%A9%B4%EC%84%9C%20%EA%B1%B8%EC%96%B4%EA%B0%80%EA%B8%B0.py)|
+|10.18|[1059. 좋은 구간](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1059.%20%EC%A2%8B%EC%9D%80%20%EA%B5%AC%EA%B0%84.py)|
 
 <details>
   <summary><strong>2024.09</strong></summary>
