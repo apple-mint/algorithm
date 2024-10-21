@@ -24,6 +24,7 @@
 |10.18|[1059. 좋은 구간](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1059.%20%EC%A2%8B%EC%9D%80%20%EA%B5%AC%EA%B0%84.py)|
 |10.19|[1245. 농장 관리](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/1245.%20%EB%86%8D%EC%9E%A5%20%EA%B4%80%EB%A6%AC.py)|
 |10.20|[1743. 음식물 피하기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1743.%20%EC%9D%8C%EC%8B%9D%EB%AC%BC%20%ED%94%BC%ED%95%98%EA%B8%B0.py)|
+|10.21|[10431. 줄세우기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/10431.%20%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0.py)|
 
 <details>
   <summary><strong>2024.09</strong></summary>
