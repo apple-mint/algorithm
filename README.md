@@ -28,6 +28,7 @@
 |10.22|[14889. 스타트와 링크](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/14889.%20%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%20%EB%A7%81%ED%81%AC.py)|
 |10.23|[1189. 컴백홈](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1189.%20%EC%BB%B4%EB%B0%B1%ED%99%88.py)|
 |10.24|[16234. 인구 이동](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/16234.%20%EC%9D%B8%EA%B5%AC%20%EC%9D%B4%EB%8F%99.py)<br>[18429. 근손실](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/18429.%20%EA%B7%BC%EC%86%90%EC%8B%A4.py)|
+|10.25|[14395. 4연산](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/14395.%204%EC%97%B0%EC%82%B0.py)<br>[7569. 토마토](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/7569.%20%ED%86%A0%EB%A7%88%ED%86%A0.py)<br>[31797. 아~파트 아파트](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/31797.%20%EC%95%84~%ED%8C%8C%ED%8A%B8%20%EC%95%84%ED%8C%8C%ED%8A%B8.py)|
 
 <details>
   <summary><strong>2024.09</strong></summary>
