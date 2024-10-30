@@ -33,6 +33,7 @@
 |10.27|[1759. 암호 만들기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/1759.%20%EC%95%94%ED%98%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|
 |10.28|[1182. 부분수열의 합](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1182.%20%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9.py)|
 |10.29|[10157. 자리배정](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/10157.%20%EC%9E%90%EB%A6%AC%EB%B0%B0%EC%A0%95.py)|
+|10.30|[2302. 극장 좌석](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2302.%20%EA%B7%B9%EC%9E%A5%20%EC%A2%8C%EC%84%9D.py)|
 
 <details>
   <summary><strong>2024.09</strong></summary>
