@@ -34,6 +34,7 @@
 |10.28|[1182. 부분수열의 합](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1182.%20%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9.py)|
 |10.29|[10157. 자리배정](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/10157.%20%EC%9E%90%EB%A6%AC%EB%B0%B0%EC%A0%95.py)|
 |10.30|[2302. 극장 좌석](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2302.%20%EA%B7%B9%EC%9E%A5%20%EC%A2%8C%EC%84%9D.py)|
+|10.31|[1090. 체커](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Platinum/1090.%20%EC%B2%B4%EC%BB%A4.py)<br>[21608. 상어 초등학교](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/21608.%20%EC%83%81%EC%96%B4%20%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90.py)|
 
 <details>
   <summary><strong>2024.09</strong></summary>
