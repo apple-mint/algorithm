@@ -4,43 +4,56 @@
 ### 📅 기록
 |날짜|문제|
 |-|-|
-|10.01|[4949. 균형잡힌 세상](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/4949.%20%EA%B7%A0%ED%98%95%EC%9E%A1%ED%9E%8C%20%EC%84%B8%EC%83%81.py)|
-|10.02|[32206. 아보와 킨텍스](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/32206.%20%EC%95%84%EB%B3%B4%EC%99%80%20%ED%82%A8%ED%85%8D%EC%8A%A4.py)|
-|10.03|[6064. 카잉 달력](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/6064.%20%EC%B9%B4%EC%9E%89%20%EB%8B%AC%EB%A0%A5.py)|
-|10.04|[1541. 잃어버린 괄호](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1541.%20%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8.py)|
-|10.05|[2468. 안전 영역](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2468.%20%EC%95%88%EC%A0%84%20%EC%98%81%EC%97%AD.py)|
-|10.06|[11656. 접미사 배열](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/11656.%20%EC%A0%91%EB%AF%B8%EC%82%AC%20%EB%B0%B0%EC%97%B4.py)|
-|10.07|[1010. 다리 놓기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1010.%20%EB%8B%A4%EB%A6%AC%20%EB%86%93%EA%B8%B0.py)<br>[16967. 배열 복원하기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/16967.%20%EB%B0%B0%EC%97%B4%20%EB%B3%B5%EC%9B%90%ED%95%98%EA%B8%B0.py)|
-|10.08|[16198. 에너지 모으기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/16198.%20%EC%97%90%EB%84%88%EC%A7%80%20%EB%AA%A8%EC%9C%BC%EA%B8%B0.py)|
-|10.09|[1138. 한 줄로 서기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1138.%20%ED%95%9C%20%EC%A4%84%EB%A1%9C%20%EC%84%9C%EA%B8%B0.py)|
-|10.10|[24481. 알고리즘 수업 - 깊이 우선 탐색 3](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/24481.%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EA%B9%8A%EC%9D%B4%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%203.py)|
-|10.11|[2210. 숫자판 점프](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2210.%20%EC%88%AB%EC%9E%90%ED%8C%90%20%EC%A0%90%ED%94%84.py)|
-|10.12|[16114. 화살표 연산자](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/16114.%20%ED%99%94%EC%82%B4%ED%91%9C%20%EC%97%B0%EC%82%B0%EC%9E%90.py)|
-|10.13|[16235. 나무 재테크](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/16235.%20%EB%82%98%EB%AC%B4%20%EC%9E%AC%ED%85%8C%ED%81%AC.py)<br>[2589. 보물섬](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/2589.%20%EB%B3%B4%EB%AC%BC%EC%84%AC.py)<br>[2346. 풍선 터뜨리기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2346.%20%ED%92%8D%EC%84%A0%20%ED%84%B0%EB%9C%A8%EB%A6%AC%EA%B8%B0.py)|
-|10.14|[1926. 그림](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1926.%20%EA%B7%B8%EB%A6%BC.py)<br>[17413. 단어 뒤집기 2](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/17413.%20%EB%8B%A8%EC%96%B4%20%EB%92%A4%EC%A7%91%EA%B8%B0%202.py)|
-|10.15|[2644. 촌수계산](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2644.%20%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0.py)|
-|10.16|[15686. 치킨 배달](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/15686.%20%EC%B9%98%ED%82%A8%20%EB%B0%B0%EB%8B%AC.py)|
-|10.17|[9205. 맥주 마시면서 걸어가기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/9205.%20%EB%A7%A5%EC%A3%BC%20%EB%A7%88%EC%8B%9C%EB%A9%B4%EC%84%9C%20%EA%B1%B8%EC%96%B4%EA%B0%80%EA%B8%B0.py)|
-|10.18|[1059. 좋은 구간](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1059.%20%EC%A2%8B%EC%9D%80%20%EA%B5%AC%EA%B0%84.py)|
-|10.19|[1245. 농장 관리](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/1245.%20%EB%86%8D%EC%9E%A5%20%EA%B4%80%EB%A6%AC.py)|
-|10.20|[1743. 음식물 피하기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1743.%20%EC%9D%8C%EC%8B%9D%EB%AC%BC%20%ED%94%BC%ED%95%98%EA%B8%B0.py)|
-|10.21|[10431. 줄세우기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/10431.%20%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0.py)|
-|10.22|[14889. 스타트와 링크](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/14889.%20%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%20%EB%A7%81%ED%81%AC.py)|
-|10.23|[1189. 컴백홈](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1189.%20%EC%BB%B4%EB%B0%B1%ED%99%88.py)|
-|10.24|[16234. 인구 이동](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/16234.%20%EC%9D%B8%EA%B5%AC%20%EC%9D%B4%EB%8F%99.py)<br>[18429. 근손실](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/18429.%20%EA%B7%BC%EC%86%90%EC%8B%A4.py)|
-|10.25|[14395. 4연산](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/14395.%204%EC%97%B0%EC%82%B0.py)<br>[7569. 토마토](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/7569.%20%ED%86%A0%EB%A7%88%ED%86%A0.py)<br>[31797. 아~파트 아파트](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/31797.%20%EC%95%84~%ED%8C%8C%ED%8A%B8%20%EC%95%84%ED%8C%8C%ED%8A%B8.py)|
-|10.26|[9655. 돌 게임](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/9655.%20%EB%8F%8C%20%EA%B2%8C%EC%9E%84.py)<br>[9291. 스도쿠 채점](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/9291.%20%EC%8A%A4%EB%8F%84%EC%BF%A0%20%EC%B1%84%EC%A0%90.py)<br>[16173. 점프왕 쩰리 (Small)](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/16173.%20%EC%A0%90%ED%94%84%EC%99%95%20%EC%A9%B0%EB%A6%AC%20(Small).py)<br>[6593. 상범 빌딩](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/6593.%20%EC%83%81%EB%B2%94%20%EB%B9%8C%EB%94%A9.py)|
-|10.27|[1759. 암호 만들기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/1759.%20%EC%95%94%ED%98%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|
-|10.28|[1182. 부분수열의 합](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1182.%20%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9.py)|
-|10.29|[10157. 자리배정](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/10157.%20%EC%9E%90%EB%A6%AC%EB%B0%B0%EC%A0%95.py)|
-|10.30|[2302. 극장 좌석](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2302.%20%EA%B7%B9%EC%9E%A5%20%EC%A2%8C%EC%84%9D.py)|
-|10.31|[1090. 체커](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Platinum/1090.%20%EC%B2%B4%EC%BB%A4.py)<br>[21608. 상어 초등학교](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/21608.%20%EC%83%81%EC%96%B4%20%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90.py)|
+|11.01|[14503. 로봇 청소기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/14503.%20%EB%A1%9C%EB%B4%87%20%EC%B2%AD%EC%86%8C%EA%B8%B0.py)|
+
+<details>
+  <summary><strong>2024.10</strong></summary>
+  <div markdown='1'>
+
+  **✍🏻 31일 중 31일 동안 42문제 풀이**
+
+  |날짜|문제|
+  |-|-|
+  |10.01|[4949. 균형잡힌 세상](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/4949.%20%EA%B7%A0%ED%98%95%EC%9E%A1%ED%9E%8C%20%EC%84%B8%EC%83%81.py)|
+  |10.02|[32206. 아보와 킨텍스](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/32206.%20%EC%95%84%EB%B3%B4%EC%99%80%20%ED%82%A8%ED%85%8D%EC%8A%A4.py)|
+  |10.03|[6064. 카잉 달력](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/6064.%20%EC%B9%B4%EC%9E%89%20%EB%8B%AC%EB%A0%A5.py)|
+  |10.04|[1541. 잃어버린 괄호](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1541.%20%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8.py)|
+  |10.05|[2468. 안전 영역](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2468.%20%EC%95%88%EC%A0%84%20%EC%98%81%EC%97%AD.py)|
+  |10.06|[11656. 접미사 배열](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/11656.%20%EC%A0%91%EB%AF%B8%EC%82%AC%20%EB%B0%B0%EC%97%B4.py)|
+  |10.07|[1010. 다리 놓기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1010.%20%EB%8B%A4%EB%A6%AC%20%EB%86%93%EA%B8%B0.py)<br>[16967. 배열 복원하기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/16967.%20%EB%B0%B0%EC%97%B4%20%EB%B3%B5%EC%9B%90%ED%95%98%EA%B8%B0.py)|
+  |10.08|[16198. 에너지 모으기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/16198.%20%EC%97%90%EB%84%88%EC%A7%80%20%EB%AA%A8%EC%9C%BC%EA%B8%B0.py)|
+  |10.09|[1138. 한 줄로 서기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1138.%20%ED%95%9C%20%EC%A4%84%EB%A1%9C%20%EC%84%9C%EA%B8%B0.py)|
+  |10.10|[24481. 알고리즘 수업 - 깊이 우선 탐색 3](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/24481.%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EA%B9%8A%EC%9D%B4%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%203.py)|
+  |10.11|[2210. 숫자판 점프](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2210.%20%EC%88%AB%EC%9E%90%ED%8C%90%20%EC%A0%90%ED%94%84.py)|
+  |10.12|[16114. 화살표 연산자](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/16114.%20%ED%99%94%EC%82%B4%ED%91%9C%20%EC%97%B0%EC%82%B0%EC%9E%90.py)|
+  |10.13|[16235. 나무 재테크](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/16235.%20%EB%82%98%EB%AC%B4%20%EC%9E%AC%ED%85%8C%ED%81%AC.py)<br>[2589. 보물섬](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/2589.%20%EB%B3%B4%EB%AC%BC%EC%84%AC.py)<br>[2346. 풍선 터뜨리기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2346.%20%ED%92%8D%EC%84%A0%20%ED%84%B0%EB%9C%A8%EB%A6%AC%EA%B8%B0.py)|
+  |10.14|[1926. 그림](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1926.%20%EA%B7%B8%EB%A6%BC.py)<br>[17413. 단어 뒤집기 2](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/17413.%20%EB%8B%A8%EC%96%B4%20%EB%92%A4%EC%A7%91%EA%B8%B0%202.py)|
+  |10.15|[2644. 촌수계산](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2644.%20%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0.py)|
+  |10.16|[15686. 치킨 배달](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/15686.%20%EC%B9%98%ED%82%A8%20%EB%B0%B0%EB%8B%AC.py)|
+  |10.17|[9205. 맥주 마시면서 걸어가기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/9205.%20%EB%A7%A5%EC%A3%BC%20%EB%A7%88%EC%8B%9C%EB%A9%B4%EC%84%9C%20%EA%B1%B8%EC%96%B4%EA%B0%80%EA%B8%B0.py)|
+  |10.18|[1059. 좋은 구간](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1059.%20%EC%A2%8B%EC%9D%80%20%EA%B5%AC%EA%B0%84.py)|
+  |10.19|[1245. 농장 관리](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/1245.%20%EB%86%8D%EC%9E%A5%20%EA%B4%80%EB%A6%AC.py)|
+  |10.20|[1743. 음식물 피하기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1743.%20%EC%9D%8C%EC%8B%9D%EB%AC%BC%20%ED%94%BC%ED%95%98%EA%B8%B0.py)|
+  |10.21|[10431. 줄세우기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/10431.%20%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0.py)|
+  |10.22|[14889. 스타트와 링크](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/14889.%20%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%20%EB%A7%81%ED%81%AC.py)|
+  |10.23|[1189. 컴백홈](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1189.%20%EC%BB%B4%EB%B0%B1%ED%99%88.py)|
+  |10.24|[16234. 인구 이동](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/16234.%20%EC%9D%B8%EA%B5%AC%20%EC%9D%B4%EB%8F%99.py)<br>[18429. 근손실](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/18429.%20%EA%B7%BC%EC%86%90%EC%8B%A4.py)|
+  |10.25|[14395. 4연산](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/14395.%204%EC%97%B0%EC%82%B0.py)<br>[7569. 토마토](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/7569.%20%ED%86%A0%EB%A7%88%ED%86%A0.py)<br>[31797. 아~파트 아파트](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/31797.%20%EC%95%84~%ED%8C%8C%ED%8A%B8%20%EC%95%84%ED%8C%8C%ED%8A%B8.py)|
+  |10.26|[9655. 돌 게임](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/9655.%20%EB%8F%8C%20%EA%B2%8C%EC%9E%84.py)<br>[9291. 스도쿠 채점](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/9291.%20%EC%8A%A4%EB%8F%84%EC%BF%A0%20%EC%B1%84%EC%A0%90.py)<br>[16173. 점프왕 쩰리 (Small)](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/16173.%20%EC%A0%90%ED%94%84%EC%99%95%20%EC%A9%B0%EB%A6%AC%20(Small).py)<br>[6593. 상범 빌딩](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/6593.%20%EC%83%81%EB%B2%94%20%EB%B9%8C%EB%94%A9.py)|
+  |10.27|[1759. 암호 만들기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/1759.%20%EC%95%94%ED%98%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|
+  |10.28|[1182. 부분수열의 합](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1182.%20%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9.py)|
+  |10.29|[10157. 자리배정](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/10157.%20%EC%9E%90%EB%A6%AC%EB%B0%B0%EC%A0%95.py)|
+  |10.30|[2302. 극장 좌석](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2302.%20%EA%B7%B9%EC%9E%A5%20%EC%A2%8C%EC%84%9D.py)|
+  |10.31|[1090. 체커](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Platinum/1090.%20%EC%B2%B4%EC%BB%A4.py)<br>[21608. 상어 초등학교](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/21608.%20%EC%83%81%EC%96%B4%20%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90.py)|
+
+  </div>
+</details>
 
 <details>
   <summary><strong>2024.09</strong></summary>
   <div markdown='1'>
 
-  **✍🏻 31일 중 31일 동안 41문제 풀이**
+  **✍🏻 30일 중 30일 동안 41문제 풀이**
 
   |날짜|문제|
   |-|-|
