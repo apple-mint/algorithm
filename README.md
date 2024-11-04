@@ -7,6 +7,7 @@
 |11.01|[14503. 로봇 청소기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/14503.%20%EB%A1%9C%EB%B4%87%20%EC%B2%AD%EC%86%8C%EA%B8%B0.py)|
 |11.02|[20922. 겹치는 건 싫어](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/20922.%20%EA%B2%B9%EC%B9%98%EB%8A%94%20%EA%B1%B4%20%EC%8B%AB%EC%96%B4.py)|
 |11.03|[4108. 지뢰찾기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/4108.%20%EC%A7%80%EB%A2%B0%EC%B0%BE%EA%B8%B0.py)|
+|11.04|[5636. 소수 부분 문자열](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/5636.%20%EC%86%8C%EC%88%98%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4.py)|
 
 <details>
   <summary><strong>2024.10</strong></summary>
