@@ -8,6 +8,7 @@
 |11.02|[20922. 겹치는 건 싫어](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/20922.%20%EA%B2%B9%EC%B9%98%EB%8A%94%20%EA%B1%B4%20%EC%8B%AB%EC%96%B4.py)|
 |11.03|[4108. 지뢰찾기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/4108.%20%EC%A7%80%EB%A2%B0%EC%B0%BE%EA%B8%B0.py)|
 |11.04|[5636. 소수 부분 문자열](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/5636.%20%EC%86%8C%EC%88%98%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4.py)|
+|11.05|[16948. 데스 나이트](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/16948.%20%EB%8D%B0%EC%8A%A4%20%EB%82%98%EC%9D%B4%ED%8A%B8.py)|
 
 <details>
   <summary><strong>2024.10</strong></summary>
