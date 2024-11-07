@@ -10,6 +10,7 @@
 |11.04|[5636. 소수 부분 문자열](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/5636.%20%EC%86%8C%EC%88%98%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4.py)|
 |11.05|[16948. 데스 나이트](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/16948.%20%EB%8D%B0%EC%8A%A4%20%EB%82%98%EC%9D%B4%ED%8A%B8.py)|
 |11.06|[11057. 오르막 수](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/11057.%20%EC%98%A4%EB%A5%B4%EB%A7%89%20%EC%88%98.py)|
+|11.07|[14888. 연산자 끼워넣기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/14888.%20%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0.py)<br>[13549. 숨바꼭질 3](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/13549.%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%203.py)|
 
 <details>
   <summary><strong>2024.10</strong></summary>
