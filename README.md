@@ -13,6 +13,7 @@
 |11.07|[14888. 연산자 끼워넣기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/14888.%20%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0.py)<br>[13549. 숨바꼭질 3](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/13549.%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%203.py)|
 |11.08|[12851. 숨바꼭질 2](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/12851.%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%202.py)|
 |11.09|[14500. 테트로미노](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/14500.%20%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8.py)|
+|11.10|[1987. 알파벳](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/1987.%20%EC%95%8C%ED%8C%8C%EB%B2%B3.py)|
 
 <details>
   <summary><strong>2024.10</strong></summary>
