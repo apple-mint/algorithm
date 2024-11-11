@@ -14,6 +14,7 @@
 |11.08|[12851. 숨바꼭질 2](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/12851.%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%202.py)|
 |11.09|[14500. 테트로미노](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/14500.%20%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8.py)|
 |11.10|[1987. 알파벳](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/1987.%20%EC%95%8C%ED%8C%8C%EB%B2%B3.py)|
+|11.11|[10866. 덱](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/10866.%20%EB%8D%B1.py)|
 
 <details>
   <summary><strong>2024.10</strong></summary>
