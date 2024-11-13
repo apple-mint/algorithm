@@ -16,6 +16,7 @@
 |11.10|[1987. 알파벳](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/1987.%20%EC%95%8C%ED%8C%8C%EB%B2%B3.py)|
 |11.11|[10866. 덱](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/10866.%20%EB%8D%B1.py)|
 |11.12|[20310. 타노스](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/20310.%20%ED%83%80%EB%85%B8%EC%8A%A4.py)|
+|11.13|[2493. 탑](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/2493.%20%ED%83%91.py)|
 
 <details>
   <summary><strong>2024.10</strong></summary>
