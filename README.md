@@ -17,6 +17,7 @@
 |11.11|[10866. 덱](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/10866.%20%EB%8D%B1.py)|
 |11.12|[20310. 타노스](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/20310.%20%ED%83%80%EB%85%B8%EC%8A%A4.py)|
 |11.13|[2493. 탑](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/2493.%20%ED%83%91.py)|
+|11.14|[11727. 2×n 타일링 2](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/11727.%202%C3%97n%20%ED%83%80%EC%9D%BC%EB%A7%81%202.py)|
 
 <details>
   <summary><strong>2024.10</strong></summary>
