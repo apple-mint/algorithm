@@ -19,6 +19,7 @@
 |11.13|[2493. 탑](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/2493.%20%ED%83%91.py)|
 |11.14|[11727. 2×n 타일링 2](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/11727.%202%C3%97n%20%ED%83%80%EC%9D%BC%EB%A7%81%202.py)|
 |11.15|[2239. 스도쿠](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/2239.%20%EC%8A%A4%EB%8F%84%EC%BF%A0.py)<br>[1347. 미로 만들기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1347.%20%EB%AF%B8%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|
+|11.16|[15736. 청기 백기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/15736.%20%EC%B2%AD%EA%B8%B0%20%EB%B0%B1%EA%B8%B0.py)|
 
 <details>
   <summary><strong>2024.10</strong></summary>
