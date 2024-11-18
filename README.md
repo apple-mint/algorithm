@@ -21,6 +21,7 @@
 |11.15|[2239. 스도쿠](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/2239.%20%EC%8A%A4%EB%8F%84%EC%BF%A0.py)<br>[1347. 미로 만들기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1347.%20%EB%AF%B8%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|
 |11.16|[15736. 청기 백기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/15736.%20%EC%B2%AD%EA%B8%B0%20%EB%B0%B1%EA%B8%B0.py)|
 |11.17|[1026. 보물](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1026.%20%EB%B3%B4%EB%AC%BC.py)|
+|11.18|[11403. 경로 찾기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/11403.%20%EA%B2%BD%EB%A1%9C%20%EC%B0%BE%EA%B8%B0.py)|
 
 <details>
   <summary><strong>2024.10</strong></summary>
