@@ -22,6 +22,7 @@
 |11.16|[15736. 청기 백기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/15736.%20%EC%B2%AD%EA%B8%B0%20%EB%B0%B1%EA%B8%B0.py)|
 |11.17|[1026. 보물](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1026.%20%EB%B3%B4%EB%AC%BC.py)|
 |11.18|[11403. 경로 찾기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/11403.%20%EA%B2%BD%EB%A1%9C%20%EC%B0%BE%EA%B8%B0.py)|
+|11.19|[5525. IOIOI](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/5525.%20IOIOI.py)|
 
 <details>
   <summary><strong>2024.10</strong></summary>
