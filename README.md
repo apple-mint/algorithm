@@ -24,6 +24,7 @@
 |11.18|[11403. 경로 찾기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/11403.%20%EA%B2%BD%EB%A1%9C%20%EC%B0%BE%EA%B8%B0.py)|
 |11.19|[5525. IOIOI](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/5525.%20IOIOI.py)|
 |11.20|[5567. 결혼식](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/5567.%20%EA%B2%B0%ED%98%BC%EC%8B%9D.py)|
+|11.21|[2805. 나무 자르기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2805.%20%EB%82%98%EB%AC%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.py)|
 
 <details>
   <summary><strong>2024.10</strong></summary>
