@@ -26,6 +26,7 @@
 |11.20|[5567. 결혼식](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/5567.%20%EA%B2%B0%ED%98%BC%EC%8B%9D.py)|
 |11.21|[2805. 나무 자르기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2805.%20%EB%82%98%EB%AC%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.py)|
 |11.22|[1927. 최소 힙](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1927.%20%EC%B5%9C%EC%86%8C%20%ED%9E%99.py)|
+|11.23|[11279. 최대 힙](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/11279.%20%EC%B5%9C%EB%8C%80%20%ED%9E%99.py)|
 
 <details>
   <summary><strong>2024.10</strong></summary>
