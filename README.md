@@ -30,6 +30,7 @@
 |11.24|[11286. 절댓값 힙](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/11286.%20%EC%A0%88%EB%8C%93%EA%B0%92%20%ED%9E%99.py)|
 |11.25|[7562. 나이트의 이동](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/7562.%20%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%9D%B4%EB%8F%99.py)|
 |11.26|[1181. 단어 정렬](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1181.%20%EB%8B%A8%EC%96%B4%20%EC%A0%95%EB%A0%AC.py)|
+|11.27|[11650. 좌표 정렬하기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/11650.%20%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)|
 
 <details>
   <summary><strong>2024.10</strong></summary>
