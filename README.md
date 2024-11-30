@@ -33,6 +33,7 @@
 |11.27|[11650. 좌표 정렬하기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/11650.%20%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)|
 |11.28|[11651. 좌표 정렬하기 2](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/11651.%20%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%202.py)|
 |11.29|[2477. 참외밭](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2477.%20%EC%B0%B8%EC%99%B8%EB%B0%AD.py)|
+|11.30|[10814. 나이순 정렬](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/10814.%20%EB%82%98%EC%9D%B4%EC%88%9C%20%EC%A0%95%EB%A0%AC.py)|
 
 <details>
   <summary><strong>2024.10</strong></summary>
