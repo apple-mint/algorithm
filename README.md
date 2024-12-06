@@ -7,6 +7,7 @@
 |12.01|[1654. 랜선 자르기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1654.%20%EB%9E%9C%EC%84%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0.py)|
 |12.02|[7662. 이중 우선순위 큐](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/7662.%20%EC%9D%B4%EC%A4%91%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90.py)|
 |12.03|[2751. 수 정렬하기 2](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2751.%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%202.py)|
+|12.06|[2164. 카드2](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2164.%20%EC%B9%B4%EB%93%9C2.py)|
 
 <details>
   <summary><strong>2024.11</strong></summary>
