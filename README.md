@@ -9,6 +9,7 @@
 |12.03|[2751. 수 정렬하기 2](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2751.%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%202.py)|
 |12.06|[2164. 카드2](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2164.%20%EC%B9%B4%EB%93%9C2.py)|
 |12.07|[10816. 숫자 카드 2](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/10816.%20%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%202.py)|
+|12.08|[5635. 생일](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/5635.%20%EC%83%9D%EC%9D%BC.py)|
 
 <details>
   <summary><strong>2024.11</strong></summary>
