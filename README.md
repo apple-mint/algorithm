@@ -10,6 +10,8 @@
 |12.06|[2164. 카드2](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2164.%20%EC%B9%B4%EB%93%9C2.py)|
 |12.07|[10816. 숫자 카드 2](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/10816.%20%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%202.py)|
 |12.08|[5635. 생일](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/5635.%20%EC%83%9D%EC%9D%BC.py)|
+|12.09|[1402. 아무래도이문제는A번난이도인것같다](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1402.%20%EC%95%84%EB%AC%B4%EB%9E%98%EB%8F%84%EC%9D%B4%EB%AC%B8%EC%A0%9C%EB%8A%94A%EB%B2%88%EB%82%9C%EC%9D%B4%EB%8F%84%EC%9D%B8%EA%B2%83%EA%B0%99%EB%8B%A4.py)|
+|12.10|[2583. 영역 구하기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2583.%20%EC%98%81%EC%97%AD%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)|
 
 <details>
   <summary><strong>2024.11</strong></summary>
