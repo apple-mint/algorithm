@@ -13,6 +13,7 @@
 |12.09|[1402. 아무래도이문제는A번난이도인것같다](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1402.%20%EC%95%84%EB%AC%B4%EB%9E%98%EB%8F%84%EC%9D%B4%EB%AC%B8%EC%A0%9C%EB%8A%94A%EB%B2%88%EB%82%9C%EC%9D%B4%EB%8F%84%EC%9D%B8%EA%B2%83%EA%B0%99%EB%8B%A4.py)|
 |12.10|[2583. 영역 구하기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2583.%20%EC%98%81%EC%97%AD%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)|
 |12.11|[25206. 너의 평점은](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/25206.%20%EB%84%88%EC%9D%98%20%ED%8F%89%EC%A0%90%EC%9D%80.py)|
+|12.12|[9019. DSLR](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/9019.%20DSLR.py)|
 
 <details>
   <summary><strong>2024.11</strong></summary>
