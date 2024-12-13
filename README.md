@@ -14,6 +14,7 @@
 |12.10|[2583. 영역 구하기](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/2583.%20%EC%98%81%EC%97%AD%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)|
 |12.11|[25206. 너의 평점은](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/25206.%20%EB%84%88%EC%9D%98%20%ED%8F%89%EC%A0%90%EC%9D%80.py)|
 |12.12|[9019. DSLR](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/9019.%20DSLR.py)|
+|12.13|[14425. 문자열 집합](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/14425.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%A7%91%ED%95%A9.py)|
 
 <details>
   <summary><strong>2024.11</strong></summary>
