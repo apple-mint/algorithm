@@ -16,6 +16,7 @@
 |12.12|[9019. DSLR](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Gold/9019.%20DSLR.py)|
 |12.13|[14425. 문자열 집합](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/14425.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%A7%91%ED%95%A9.py)|
 |12.14|[1427. 소트인사이드](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1427.%20%EC%86%8C%ED%8A%B8%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C.py)|
+|12.15|[1303. 전쟁 - 전투](https://github.com/apple-mint/algorithm/blob/main/Baekjoon/Silver/1303.%20%EC%A0%84%EC%9F%81%20-%20%EC%A0%84%ED%88%AC.py)|
 
 <details>
   <summary><strong>2024.11</strong></summary>
